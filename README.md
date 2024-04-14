@@ -1,12 +1,13 @@
 # ECE484-audioCodec
 
 This project uses an Arduino Uno to communicate and control the DFPlayer Mini MP3 Player.
+
 Initializing the DFPlayer Mini will be handled by Arduino and controlling the player functions will use UART.
 
-The DFPlayer Mini libraries are provided by DFRobot on GitHub
+The DFPlayer Mini libraries are provided by DFRobot on GitHub <br>
 Link: https://github.com/Arduinolibrary/DFPlayer_Mini_mp3/
 
-The user guide and datasheet can be found on DFRobot's website
+The user guide and datasheet can be found on DFRobot's website <br>
 Link: https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
 
 The specific commands sent to the player are listed below:
